@@ -4,6 +4,7 @@ public class Git_Exercise {
 
         System.out.println("git test1");
         System.out.println("git test2");
+          System.out.println("git pulltest");
 
     }
 }
